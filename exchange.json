@@ -1,1 +1,5 @@
-{"dependencies":[],"main":"api.raml"}
+{
+  "dependencies": [],
+  "main": "api.raml",
+  "name": "GitHubSyncTests-9987331239725"
+}
